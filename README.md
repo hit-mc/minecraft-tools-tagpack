@@ -1,27 +1,9 @@
-> __NOTE:__ If you happen to use this template, make sure to replace the Kofi username inside the `.github/FUNDING.yml` file :)
+# Minecraft Tools Tagpack (Minecraft 原版工具tag包)
 
-# Projectname
+Adds tags for swords, axes, pickaxes, shovels and hoes by their types (not by what they are made from!).
 
-> A Minecraft 1.16.x data pack that
+为原版的六种材质的剑、斧、镐、铲、锄增加了和他们类别对应的tag。
 
-## Installation
+Thanks to [SirWindfield](https://github.com/SirWindfield) for his fantastic minecraft datapack template.
 
-Download the latest release from [here][latest] and put the datapack zip file into the `datapacks` folder of your Minecraft world. Download the resourcepack zip file (if available) and enable the pack in your client.
-
-I usually provide resourcepacks to allow translations of my datapacks :)
-
-## Crafting
-
-## FAQ
-
-## Uninstallation
-
-To uninstall the datapack, run the `zerotask:REPLACE/uninstall` function and remove the datapack from your world save. Afterwards, run `reload`.
-
-## License
-
-The data pack is licensed under the GPLv3. For more information, take a look at the license file within this repository.
-
-## Inspiration
-
-[latest]: https://github.com/vanilla-friendly-datapacks/REPLACE/releases/latest
+License: GNU GPLv3.
